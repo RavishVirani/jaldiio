@@ -50,3 +50,4 @@ The project's main goal is to bring the users closer together. The people today 
 ## Instructions
 
 Please refer to *User Documentation* to learn how to use this application.
+You can view the Jaldi.io web application at: https://github.com/RavishVirani/Jaldi-io-Project
